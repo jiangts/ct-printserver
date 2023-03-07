@@ -1,0 +1,13 @@
+{
+  "name": "pbcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "^16.0.0",
+    "yarn": ">= 0.18.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "puppeteer": "^19.7.2"
+  }
+}
